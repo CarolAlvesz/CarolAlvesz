@@ -1,4 +1,4 @@
-Ana Carolina
+Olá, me chamo Ana Carolina
 
-**'Iniciante na Área de Programação'**
+**Iniciante na Área de Programação**
 
