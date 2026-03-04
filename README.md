@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-My name is Ana Carolina and I am a Computer Engineering student at UEMA. My area of ​​study is back-end development, focusing on the functionality, versatility, and security of projects.
+My name is Ana Carolina and I am a Computer Engineering student at UEMA
 
 ---
 
